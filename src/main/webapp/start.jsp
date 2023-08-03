@@ -11,7 +11,7 @@
     <title>Race start</title>
 </head>
 <body>
-<form action="race/run" method="post">
+<form action="${pageContext.request.contextPath}/race/run" method="post">
    Horses amount: <input type="number" name="horseAmount" />
     <br/>
    Your bet: <input type="number" name="bet" />

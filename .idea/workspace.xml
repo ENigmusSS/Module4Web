@@ -9,40 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e097d80-913c-4edc-a94d-6e738865c49a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/config/HibernateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/HorseRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/Race.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/GenericDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/HorseRunDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/RaceDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/GenericDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/HorseRunDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/RaceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/logic/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/logic/HorseRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/InfoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/RunExecutorServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/StatsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Start.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="6e097d80-913c-4edc-a94d-6e738865c49a" name="Changes" comment="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,12 +200,25 @@
       <workItem from="1690822087175" duration="888000" />
       <workItem from="1690823064502" duration="1033000" />
       <workItem from="1690824137225" duration="276000" />
-      <workItem from="1690824430771" duration="38431000" />
+      <workItem from="1690824430771" duration="39564000" />
     </task>
+    <task id="LOCAL-00001" summary="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
+      <option name="closed" value="true" />
+      <created>1691022609261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691022609261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН" />
+    <option name="LAST_COMMIT_MESSAGE" value="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
