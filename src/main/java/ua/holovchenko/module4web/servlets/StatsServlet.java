@@ -23,6 +23,7 @@ public class StatsServlet extends HttpServlet {
         List<Race> results = raceDAO.getAll();
         for (Race race : results) {
             writer.println("______________________________________________________________________");
+            writer.println(race.getStart_time());
             for (HorseRun horseRun :race.getHorseRuns()) {
                 horseRun.printResult(writer);
             }

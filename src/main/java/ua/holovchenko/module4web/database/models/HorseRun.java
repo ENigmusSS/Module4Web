@@ -30,6 +30,6 @@ public class HorseRun {
     private boolean chosen;
 
     public void printResult(PrintWriter writer) {
-        writer.println("Horse №"+ num +" result Time: " + result + " Finished on place" + place +" Is your bet: " + chosen);
+        writer.println("Horse №"+ num +" result Time: " + result/100 + " Finished on place " + place +" Is your bet: " + chosen);
     }
 }

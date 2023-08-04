@@ -52,7 +52,7 @@ public class Horse implements Comparable<Horse> {
     }
 
     public void printResult(PrintWriter writer) {
-        writer.println("Horse №"+ number +" result Time: " + result + " Finished on place" + place +" Is your bet: " + chosen);
+        writer.println("Horse №"+ number +" result Time: " + result/100 + " Finished on place " + place +" Is your bet: " + chosen);
     }
 
     public long getResult() {

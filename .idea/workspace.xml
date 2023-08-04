@@ -9,19 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e097d80-913c-4edc-a94d-6e738865c49a" name="Changes" comment="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/config/HibernateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/config/HibernateUtils.java" afterDir="false" />
+    <list default="true" id="6e097d80-913c-4edc-a94d-6e738865c49a" name="Changes" comment="АЛЛИЛУЙЯ БЛ***">
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/HorseRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/HorseRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/RaceDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/RaceDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/RaceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/RaceDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/logic/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/logic/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/InfoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/InfoServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/RunExecutorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/RunExecutorServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/StatsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/StatsServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +66,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/BurnedSynapse/Module4Web/src/main/java/ua/holovchenko/module4web/logic",
@@ -224,7 +213,7 @@
       <workItem from="1690822087175" duration="888000" />
       <workItem from="1690823064502" duration="1033000" />
       <workItem from="1690824137225" duration="276000" />
-      <workItem from="1690824430771" duration="54688000" />
+      <workItem from="1690824430771" duration="55752000" />
     </task>
     <task id="LOCAL-00001" summary="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
       <option name="closed" value="true" />
@@ -242,15 +231,35 @@
       <option name="project" value="LOCAL" />
       <updated>1691078223222</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="АЛЛИЛУЙЯ БЛ***">
+      <option name="closed" value="true" />
+      <created>1691174393801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691174393801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН" />
-    <option name="LAST_COMMIT_MESSAGE" value="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН" />
+    <MESSAGE value="АЛЛИЛУЙЯ БЛ***" />
+    <option name="LAST_COMMIT_MESSAGE" value="АЛЛИЛУЙЯ БЛ***" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
