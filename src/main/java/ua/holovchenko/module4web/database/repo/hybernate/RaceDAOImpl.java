@@ -27,9 +27,9 @@ public class RaceDAOImpl extends GenericDAOImpl<Race> implements RaceDAO {
     }
 
     @Override
-    public int getRacesCount() {
+    public long getRacesCount() {
         try (EntityManager entityManager = HibernateUtils.getEntityManager()) {
-            TypedQuery<Integer> query = entityManager.createQuery("select count(*) from races " , Integer.class);
+            TypedQuery<Long> query = entityManager.createQuery("select count(*) from races " , Long.class);
             return query.getSingleResult();
         }
     }

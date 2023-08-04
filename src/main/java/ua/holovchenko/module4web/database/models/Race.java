@@ -15,8 +15,8 @@ public class Race {
 
     @Id
     @Column(name = "start_time")
-    private String startTime;
+    private String start_time;
 
-    @OneToMany(mappedBy = "runStartTime", cascade = CascadeType.REMOVE, fetch = FetchType.EAGER)
+    @OneToMany(mappedBy = "race", cascade = CascadeType.REMOVE, fetch = FetchType.EAGER)
     private List<HorseRun> horseRuns;
 }

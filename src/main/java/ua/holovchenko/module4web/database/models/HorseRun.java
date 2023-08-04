@@ -3,6 +3,8 @@ package ua.holovchenko.module4web.database.models;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.io.PrintWriter;
+
 
 @NoArgsConstructor
 @AllArgsConstructor
@@ -25,5 +27,9 @@ public class HorseRun {
     private long result;
 
     @Column
-    private boolean isChosen;
+    private boolean chosen;
+
+    public void printResult(PrintWriter writer) {
+        writer.println("Horse №"+ num +" result Time: " + result + " Finished on place" + place +" Is your bet: " + chosen);
+    }
 }

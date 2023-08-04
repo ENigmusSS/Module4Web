@@ -10,12 +10,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e097d80-913c-4edc-a94d-6e738865c49a" name="Changes" comment="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/config/HibernateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/config/HibernateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/HorseRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/HorseRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/models/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/RaceDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/hybernate/RaceDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/RaceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/database/repo/interfaces/RaceDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/logic/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/logic/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/InfoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/InfoServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/RunExecutorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/RunExecutorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/StatsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/holovchenko/module4web/servlets/StatsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="eed221b3-365c-4ad0-8429-9a0a9ad95760" value="Rose" />
+    </colors>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +86,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mariadb"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,11 +100,13 @@
       <recent name="D:\BurnedSynapse\Module4Web\src\main\java\ua\holovchenko\module4web\database" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
   <component name="RunManager">
-    <configuration name="Tomcat 9.0.78" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.78" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 10..1.11" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10..1.11" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER" value="false" />
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/Module4Web/" />
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Module4Web:war exploded">
           <settings>
@@ -91,7 +115,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="d52a4b7b-0762-4882-a513-b0e797fb1db4" />
+        <option name="BASE_DIRECTORY_NAME" value="b8aa21d0-3da6-43a1-bb88-6e202c552d9f" />
         <option name="HTTP_PORT" value="8081" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -105,7 +129,7 @@
         <option name="useCurrentConnection" value="false" />
       </extension>
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="54959" />
+        <option name="DEBUG_PORT" value="58824" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -200,7 +224,7 @@
       <workItem from="1690822087175" duration="888000" />
       <workItem from="1690823064502" duration="1033000" />
       <workItem from="1690824137225" duration="276000" />
-      <workItem from="1690824430771" duration="39564000" />
+      <workItem from="1690824430771" duration="54688000" />
     </task>
     <task id="LOCAL-00001" summary="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
       <option name="closed" value="true" />
@@ -210,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691022609261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ПОЧЕМУОНОНЕРАБОТАЕТ?????!!!!!!!!11111111АДЫНАДЫН">
+      <option name="closed" value="true" />
+      <created>1691078223222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691078223222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

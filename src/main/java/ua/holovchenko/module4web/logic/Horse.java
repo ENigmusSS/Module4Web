@@ -3,6 +3,8 @@ package ua.holovchenko.module4web.logic;
 
 import org.jetbrains.annotations.NotNull;
 
+import java.io.PrintWriter;
+
 public class Horse implements Comparable<Horse> {
     private int distance = 0;
     private boolean chosen;
@@ -46,11 +48,11 @@ public class Horse implements Comparable<Horse> {
 
     @Override
     public int compareTo(@NotNull Horse o) {
-        return Long.compare(o.result, this.result);
+        return Long.compare(this.result, o.result);
     }
 
-    public void printResult() {
-        System.out.println("Result Time: " + result + " Is your bet: " + chosen);
+    public void printResult(PrintWriter writer) {
+        writer.println("Horse №"+ number +" result Time: " + result + " Finished on place" + place +" Is your bet: " + chosen);
     }
 
     public long getResult() {
